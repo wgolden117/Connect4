@@ -4,6 +4,7 @@ This is a Connect4 game built using JavaFX. It features a player-versus-computer
 
 ## Features:
 - Player vs. Computer
+- Player vs. Player in GUI OR
 - Player vs. Player via Server/Client
 - Visual Game Interface (JavaFX)
 - Console version of the game

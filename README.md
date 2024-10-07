@@ -17,7 +17,5 @@ This is a Connect4 game built using JavaFX. It features a player-versus-computer
 ## How to Run:
 - Clone this repository.
 - Open the project in your preferred Java IDE (e.g., IntelliJ or Eclipse).
-- Run the Connect4GUI class in the ui package OR
-- Run the Connect4TextConsole class in the ui package for the console version of the game
-- For a Client/Server game, first run the Connect4_Server class in the core package
-- Next, run the Connect4_client class in the ui package (make sure you are able to run multiple instances of client) 
+- Run the Connect4GUI (GUI) or Connect4TextConsole (Console) class from the ui package.
+- For a Client/Server game, run Connect4_Server in the core package, then multiple instances of Connect4_Client in the ui package.

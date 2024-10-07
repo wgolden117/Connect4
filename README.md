@@ -1,6 +1,6 @@
 # Connect4
 
-This is a Connect4 game built using JavaFX. It features a player-versus-computer mode with a simple AI opponent.
+This is a Connect4 game built using JavaFX. It features a player-versus-computer mode and a player-versus-player mode with a simple AI opponent.
 
 ## Features:
 - Player vs. Computer
